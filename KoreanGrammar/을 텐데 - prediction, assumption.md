@@ -1,0 +1,1 @@
+을 텐데 - is used to guess or predict something based on reason, expectation or contrast
