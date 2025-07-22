@@ -25,3 +25,4 @@ Example practices for isotopes:
    well, mass number is 39, protons are 19, so neutrons are 20 
 6. $\frac{56}{26}$ Fe, find mass number and neutrons:
    mass number is 56, protons are 26, and neutrons are 30
+
